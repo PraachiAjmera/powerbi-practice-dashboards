@@ -1,5 +1,3 @@
-# powerbi-practice-dashboards
-
 # Power BI Practice Dashboards
 
 ## Overview
